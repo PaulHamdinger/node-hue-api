@@ -1,6 +1,6 @@
 # Rules API
 
-The `rules` API provides a manes of interacting with Rules in the Hue Bridge.
+The `rules` API provides a means of interacting with Rules in the Hue Bridge.
 
 Rules are complex event triggers that consist of a one or more conditions that must be satisfied, which when they are
 will trigger one or more actions for devices connected to the bridge.
